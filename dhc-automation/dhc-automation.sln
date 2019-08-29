@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dhc-automation", "dhc-automation\dhc-automation.csproj", "{0038E139-1714-4C8D-82E8-85B2716057BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0038E139-1714-4C8D-82E8-85B2716057BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0038E139-1714-4C8D-82E8-85B2716057BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0038E139-1714-4C8D-82E8-85B2716057BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0038E139-1714-4C8D-82E8-85B2716057BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88EAB91D-8B70-42F1-9C73-C77E9FDA52CA}
+	EndGlobalSection
+EndGlobal
