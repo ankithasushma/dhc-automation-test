@@ -26,6 +26,7 @@ namespace dhc_automation
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddConnections();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
