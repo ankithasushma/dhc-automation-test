@@ -34,7 +34,7 @@ namespace dhc_automation
         {
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
+               // app.UseDeveloperExceptionPage();
             }
 
             app.UseHttpsRedirection();
