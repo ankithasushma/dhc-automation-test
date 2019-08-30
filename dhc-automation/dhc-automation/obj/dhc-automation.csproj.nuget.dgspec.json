@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dhc-automation-test\\dhc-automation\\dhc-automation\\dhc-automation.csproj": {}
+    "C:\\DHSAuto\\dhc-automation-test\\dhc-automation\\dhc-automation\\dhc-automation.csproj": {}
   },
   "projects": {
-    "C:\\dhc-automation-test\\dhc-automation\\dhc-automation\\dhc-automation.csproj": {
+    "C:\\DHSAuto\\dhc-automation-test\\dhc-automation\\dhc-automation\\dhc-automation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dhc-automation-test\\dhc-automation\\dhc-automation\\dhc-automation.csproj",
+        "projectUniqueName": "C:\\DHSAuto\\dhc-automation-test\\dhc-automation\\dhc-automation\\dhc-automation.csproj",
         "projectName": "dhc-automation",
-        "projectPath": "C:\\dhc-automation-test\\dhc-automation\\dhc-automation\\dhc-automation.csproj",
-        "packagesPath": "C:\\Users\\asushma\\.nuget\\packages\\",
-        "outputPath": "C:\\dhc-automation-test\\dhc-automation\\dhc-automation\\obj\\",
+        "projectPath": "C:\\DHSAuto\\dhc-automation-test\\dhc-automation\\dhc-automation\\dhc-automation.csproj",
+        "packagesPath": "C:\\Users\\RNijalingapp\\.nuget\\packages\\",
+        "outputPath": "C:\\DHSAuto\\dhc-automation-test\\dhc-automation\\dhc-automation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\asushma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RNijalingapp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
